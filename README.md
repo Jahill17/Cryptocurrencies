@@ -15,7 +15,7 @@ Deliverables:
 - crypto_data.csv
 
 ## Results:
-I utilized the code initially outlined in the crypto starter file provided; I added additional code to complete the [crypto_clustering.ipynb] (https://github.com/Jahill17/Cryptocurrencies/blob/main/crypto_clustering.ipynb) file.
+I utilized the code initially outlined in the crypto starter file provided; I added additional code to complete the [crypto_clustering.ipynb](https://github.com/Jahill17/Cryptocurrencies/blob/main/crypto_clustering.ipynb) file.
 
 
 **The first deliverable required preprocessing the data for PCA. See the below screenshot for the results**
