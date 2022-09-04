@@ -35,5 +35,12 @@ I utilized the code initially outlined in the crypto starter file provided; I ad
 - The last deliverable required visualizing the cryptocurrencies results
 
 ![This is an image](https://github.com/Jahill17/Cryptocurrencies/blob/main/ScreenGrabs/Deliv4_TradeableCryptos.png)
-![This is an image](https://github.com/Jahill17/Cryptocurrencies/blob/main/ScreenGrabs/Deliv4_HVplotScatter.png)
+- The above image is a table of cryptocurrencies printed
+
 ![This is an image](https://github.com/Jahill17/Cryptocurrencies/blob/main/ScreenGrabs/Deliv4_3DScatterClusters.png)
+- The above image is a 
+
+![This is an image](https://github.com/Jahill17/Cryptocurrencies/blob/main/ScreenGrabs/Deliv4_HVplotScatter.png)
+- The above is an hvplot scatter of the clustered dataframe
+
+
